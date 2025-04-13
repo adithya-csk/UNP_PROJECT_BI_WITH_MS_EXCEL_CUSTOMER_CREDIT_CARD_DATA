@@ -5,7 +5,7 @@ The given data was incomplete so using various excel functions like Vlookup, IF 
 Then we made our KPIs through the enhanced data and made Pivot tables using them.
 We made pivot tables using facors like gender, income of the customers, Age, etc. 
 Then we made pivot charts using the pivot tables. we chose the appropriate chart depending on the data.
-We combined all these pivot charts and made a Dashboard using them.
+We combined all these pivot charts and made a dashboard using them.
 through the dashboard we analyzed spending patterns, transaction trends, and customer behavior. 
 Not only that we used slicers in the excel to filter out data and understand them more.
 With a user-friendly layout, the dashboard enhances data-driven decision-making for financial analysis and monitoring.
